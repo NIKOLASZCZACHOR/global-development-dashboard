@@ -18,6 +18,21 @@ It contains country-level data covering multiple economic, demographic, social, 
 
 The dataset was used as the foundation for building an interactive Excel dashboard and performing comparative analysis across countries, continents, and years.
 
+## 🔄 Analysis Workflow
+The project started with a raw dataset provided as part of a university course. The analytical structure and dashboard were built independently in Excel.
+
+The project workflow included:
+
+- Exploring the original dataset and selecting relevant development indicators
+- Creating Pivot Tables to aggregate and compare data across countries, continents, and years
+- Building Pivot Charts based on the prepared analyses
+- Creating KPI views for key economic, demographic, and social indicators
+- Designing an interactive dashboard from scratch
+- Connecting slicers and filters across dashboard elements to enable interactive exploration
+- Organizing the workbook into dedicated analysis and visualization sections
+- Comparing development patterns across countries and continents
+- Interpreting the results and describing observed trends and differences
+
 ## 📈 Dashboard Features
 - Interactive filters for continent and year
 - KPI overview including:
