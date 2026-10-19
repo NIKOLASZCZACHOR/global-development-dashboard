@@ -11,6 +11,13 @@ The dashboard provides a consolidated view of key indicators such as population,
 
 Users can filter the dashboard by continent and year to compare countries and observe differences in development patterns.
 
+## 📂 Data Source
+The dataset used in this project was sourced from Kaggle and provided as part of a university course.
+
+It contains country-level data covering multiple economic, demographic, social, and development indicators across the years 2010–2024.
+
+The dataset was used as the foundation for building an interactive Excel dashboard and performing comparative analysis across countries, continents, and years.
+
 ## 📈 Dashboard Features
 - Interactive filters for continent and year
 - KPI overview including:
