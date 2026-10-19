@@ -47,6 +47,13 @@ The project workflow included:
 - Population distribution by continent
 - Internet usage comparison across continents and years
 - Country-level comparison of selected development indicators
+## 🔎 Key Insights
+- Economic development remains highly uneven across regions. In 2024, the highest GDP per capita values in the dataset were concentrated mainly in Europe and other highly developed economies, with Ireland, Switzerland and Singapore among the leading countries.
+- Asia dominates the population structure of the dataset. China and India each exceed 1.4 billion inhabitants in 2024, making them the largest contributors to the population represented in the analysis.
+- Internet access expanded substantially between 2010 and 2024. A clear digital divide nevertheless remains between regions, with Africa recording the lowest average Internet usage in 2024 at approximately 58%.
+- Urbanization increased across all analyzed regions. Oceania and South America were the most urbanized regions in 2024, while Africa recorded the largest increase over the analyzed period.
+- Life expectancy shows a long-term upward trend with a visible disruption around 2020. The dataset shows a decline during the pandemic period followed by a strong recovery.
+- Higher income is generally associated with higher reported happiness, but the relationship weakens at higher income levels. This suggests that differences in well-being cannot be explained by income alone.
 ## 🛠️ Tools & Skills
 - Microsoft Excel
 - Pivot Tables
@@ -58,7 +65,7 @@ The project workflow included:
 - KPI design
 - Dashboard design
 ## 📁 Repository Contents
-- `Global_Development_Dashboard.xlsx` – interactive Excel dashboard
+- `Global_Development_Dashboard.xlsx` – full interactive Excel workbook available for download
 - `dashboard-preview.png` – dashboard preview
 - `README.md` – project documentation
 ## 💡 Project Purpose
