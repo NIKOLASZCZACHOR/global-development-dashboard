@@ -12,11 +12,13 @@ The dashboard provides a consolidated view of key indicators such as population,
 Users can filter the dashboard by continent and year to compare countries and observe differences in development patterns.
 
 ## 📂 Data Source
-The dataset used in this project was sourced from Kaggle and provided as part of a university course.
+The project is based on a curated teaching dataset provided as part of a university course and originally distributed through Kaggle.
 
-It contains country-level data covering multiple economic, demographic, social, and development indicators across the years 2010–2024.
+The dataset covers economic, demographic, social, environmental, and development indicators for countries across the period 2010–2024.
 
-The dataset was used as the foundation for building an interactive Excel dashboard and performing comparative analysis across countries, continents, and years.
+The underlying indicators are based on established international data sources, including the World Bank, United Nations / Our World in Data, and the World Happiness Report.
+
+For the purposes of the course, selected variables and normalized indices were curated to support comparative analysis and data visualization in Excel
 
 ## 🔄 Analysis Workflow
 The project started with a raw dataset provided as part of a university course. The analytical structure and dashboard were built independently in Excel.
